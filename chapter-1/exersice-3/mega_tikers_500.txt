@@ -1,0 +1,525 @@
+BBCA.JK	PT Bank Central Asia Tbk	27,700.00	+300.00	+1.09%	6.950M	14.377M	681.094T	N/A	
+BBRI.JK	PT Bank Rakyat Indonesia (Persero) Tbk	3,950.00	+80.00	+2.07%	86.238M	98.121M	481.614T	N/A	
+HMSP.JK	PT Hanjaya Mandala Sampoerna Tbk	3,810.00	+10.00	+0.26%	8.409M	20.243M	444.335T	N/A	
+TLKM.JK	Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk	3,750.00	+20.00	+0.54%	63.909M	72.614M	371.483T	N/A	
+BMRI.JK	PT Bank Mandiri (Persero) Tbk	7,075.00	+150.00	+2.17%	30.855M	43.631M	331.334T	N/A	
+ASII.JK	PT Astra International Tbk	7,375.00	+100.00	+1.37%	33.854M	35.741M	297.554T	N/A	
+005930.KS	Samsung Electronics Co., Ltd.	44,200.00	+350.00	+0.80%	14.603M	12.154M	293.144T	N/A	
+BBNI.JK	PT Bank Negara Indonesia (Persero) Tbk	9,100.00	+250.00	+2.82%	16.137M	17.739M	168.771T	N/A	
+KLBF.JK	PT Kalbe Farma Tbk.	1,545.00	+35.00	+2.32%	11.733M	20.871M	72.422T	N/A	
+PGAS.JK	PT Perusahaan Gas Negara Tbk	2,520.00	+100.00	+4.13%	56.776M	62.135M	60.846T	N/A	
+BRPT.JK	PT Barito Pacific Tbk	3,270.00	+120.00	+3.81%	18.869M	8.998M	58.027T	N/A	
+INKP.JK	PT Indah Kiat Pulp & Paper Tbk	9,975.00	+750.00	+8.13%	10.661M	4.167M	54.299T	N/A	
+ADRO.JK	PT Adaro Energy Tbk	1,445.00	-10.00	-0.69%	22.461M	70.829M	46.22T	N/A	
+PTBA.JK	PT Bukit Asam Tbk	4,040.00	+20.00	+0.50%	12.895M	13.014M	42.583T	N/A	
+TOWR.JK	PT Sarana Menara Nusantara Tbk	820.00	-10.00	-1.20%	8.913M	27.853M	41.577T	N/A	
+FREN.JK	PT Smartfren Telecom Tbk	338.00	-4.00	-1.17%	176.064M	199.944M	34.845T	N/A	
+PWON.JK	PT Pakuwon Jati Tbk	675.00	+35.00	+5.47%	49.574M	29.283M	32.508T	N/A	
+BNLI.JK	PT Bank Permata Tbk	1,055.00	-45.00	-4.09%	71.615M	88.504M	29.585T	N/A	
+EXCL.JK	PT XL Axiata Tbk	2,630.00	+80.00	+3.14%	9.226M	23.552M	28.003T	N/A	
+JPFA.JK	PT Japfa Comfeed Indonesia Tbk	2,300.00	-10.00	-0.43%	26.527M	22.804M	26.95T	N/A	
+WSKT.JK	PT Waskita Karya (Persero) Tbk	1,950.00	0.00	0.00%	14.214M	60.467M	26.401T	N/A	
+BSDE.JK	PT Bumi Serpong Damai Tbk	1,355.00	0.00	0.00%	8.638M	15.812M	25.98T	N/A	
+BBTN.JK	PT Bank Tabungan Negara (Persero) Tbk	2,440.00	+40.00	+1.67%	29.611M	24.678M	25.946T	N/A	
+SCMA.JK	PT Surya Citra Media Tbk	1,755.00	-40.00	-2.23%	9.716M	8.861M	25.661T	N/A	
+ANTM.JK	PT Aneka Tambang Tbk	970.00	+5.00	+0.52%	28.617M	119.678M	23.43T	N/A	
+BJBR.JK	PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk	2,090.00	+95.00	+4.76%	11.258M	12.09M	20.26T	N/A	
+7203.T	Toyota Motor Corporation	6,615.00	+72.00	+1.10%	7.785M	4.949M	18.737T	7.94	
+MAPI.JK	PT. Mitra Adiperkasa Tbk	1,100.00	+35.00	+3.29%	11.784M	17.092M	18.191T	N/A	
+WIKA.JK	PT Wijaya Karya (Persero) Tbk.	1,940.00	+20.00	+1.04%	28.800M	21.118M	17.39T	N/A	
+TAMU.JK	PT Pelayaran Tamarin Samudra Tbk	4,560.00	+20.00	+0.44%	5.197M	3.273M	17.1T	N/A	
+CTRA.JK	PT Ciputra Development Tbk	905.00	+15.00	+1.69%	15.487M	32.986M	16.775T	N/A	
+BTPS.JK	PT Bank Tabungan Pensiunan Nasional Syariah Tbk.	2,130.00	0.00	0.00%	30.489M	36.967M	16.409T	N/A	
+MEDC.JK	PT Medco Energi Internasional Tbk	910.00	-10.00	-1.09%	14.046M	37.853M	16.172T	N/A	
+GIAA.JK	PT. Garuda Indonesia (Persero) Tbk	590.00	+10.00	+1.72%	18.684M	56.757M	15.273T	N/A	
+BHP.L	BHP Group	1,730.40	-25.40	-1.45%	5.811M	6.752M	143.583B	16.90	
+SMRA.JK	PT Summarecon Agung Tbk	920.00	+35.00	+3.95%	14.329M	19.214M	13.273T	N/A	
+PNLF.JK	PT Panin Financial Tbk	410.00	-4.00	-0.97%	15.095M	56.387M	13.129T	N/A	
+PTPP.JK	PT Pembangunan Perumahan (Persero) Tbk	2,100.00	+10.00	+0.48%	15.041M	25.618M	13.02T	N/A	
+HSBA.L	HSBC Holdings plc	620.40	+0.30	+0.05%	39.945M	22.049M	124.273B	9.85	
+ZINC.JK	PT Kapuas Prima Coal Tbk	2,440.00	-50.00	-2.01%	22.331M	27.242M	12.322T	N/A	
+9984.T	SoftBank Group Corp.	10,840.00	+45.00	+0.42%	5.745M	8.422M	11.818T	11.93	
+DMAS.JK	PT Puradelta Lestari Tbk	236.00	0.00	0.00%	5.065M	45.578M	11.375T	N/A	
+LPPF.JK	PT Matahari Department Store Tbk	3,880.00	+180.00	+4.86%	21.629M	11.105M	11.322T	N/A	
+BP.L	BP p.l.c.	549.90	+2.10	+0.38%	49.457M	32.888M	111.318B	11.78	
+MNCN.JK	PT. Media Nusantara Citra Tbk	865.00	+35.00	+4.22%	22.248M	35.272M	11.026T	N/A	
+KREN.JK	PT Kresna Graha Investama Tbk	605.00	-10.00	-1.63%	68.787M	91.764M	11.016T	N/A	
+CHILE.SN	Banco de Chile	102.90	-1.10	-1.06%	169.288M	18.623M	10.395T	17.47	
+SSMS.JK	PT Sawit Sumbermas Sarana Tbk.	1,080.00	+5.00	+0.47%	85.005M	65.853M	10.287T	N/A	
+BJTM.JK	PT Bank Pembangunan Daerah Jawa Timur Tbk	665.00	+30.00	+4.72%	18.496M	7.37M	9.963T	N/A	
+BSANTANDER.SN	Banco Santander-Chile	51.90	+0.19	+0.37%	39.443M	38.344M	9.78T	16.52	
+PPRO.JK	PT Pembangunan Perumahan Properti Tbk	158.00	+1.00	+0.64%	8.783M	71.275M	9.745T	N/A	
+TINS.JK	PT Timah Tbk	1,295.00	+5.00	+0.39%	11.056M	52.015M	9.645T	N/A	
+WSBP.JK	PT Waskita Beton Precast Tbk	386.00	+2.00	+0.52%	21.087M	84.516M	9.463T	N/A	
+POOL.JK	PT. Pool Advista Indonesia Tbk	4,150.00	-10.00	-0.24%	38.798M	36.997M	9.338T	N/A	
+MYRX.JK	PT Hanson International Tbk	103.00	+1.00	+0.98%	875.523M	588.353M	8.93T	N/A	
+BUMI.JK	PT Bumi Resources Tbk	136.00	+6.00	+4.62%	320.748M	370.726M	8.905T	N/A	
+GMFI.JK	PT Garuda Maintenance Facility Aero Asia Tbk	292.00	-2.00	-0.68%	15.095M	30.939M	8.244T	N/A	
+TARA.JK	PT Sitara Propertindo Tbk	800.00	0.00	0.00%	55.857M	42.041M	8.056T	N/A	
+9437.T	NTT DOCOMO, INC.	2,489.50	+7.00	+0.28%	4.371M	3.499M	7.832T	12.34	
+FILM.JK	PT. MD Pictures Tbk	800.00	-10.00	-1.23%	13.16M	7.773M	7.609T	N/A	
+MASA.JK	PT Multistrada Arah Sarana Tbk	815.00	0.00	0.00%	5.824M	11.742M	7.484T	N/A	
+GSK.L	GlaxoSmithKline plc	1,508.80	+2.40	+0.16%	10.179M	8.376M	74.233B	20.70	
+8306.T	Mitsubishi UFJ Financial Group, Inc.	564.80	+0.60	+0.11%	34.354M	43.835M	7.299T	7.60	
+DGE.L	Diageo plc	3,051.00	-1.00	-0.03%	5.208M	4.555M	73.376B	25.57	
+4502.T	Takeda Pharmaceutical Company Limited	4,641.00	+16.00	+0.35%	4.917M	10.902M	7.216T	19.19	
+ENELAM.SN	Enel Américas S.A.	122.93	+1.13	+0.93%	66.696M	35.62M	7.063T	5,853.81	
+SRIL.JK	PT Sri Rejeki Isman Tbk	340.00	+2.00	+0.59%	12.797M	289.321M	6.954T	N/A	
+ERAA.JK	PT Erajaya Swasembada Tbk	2,070.00	-10.00	-0.48%	10.535M	23.78M	6.603T	N/A	
+LPKR.JK	PT Lippo Karawaci Tbk	292.00	+24.00	+8.96%	152.3M	61.897M	6.649T	N/A	
+TRAM.JK	PT Trada Alam Minera Tbk	131.00	-8.00	-5.76%	1.155B	406.173M	6.502T	N/A	
+6758.T	Sony Corporation	5,119.00	-9.00	-0.18%	7.371M	6.887M	6.453T	13.48	
+APIC.JK	PT Pacific Strategic Financial Tbk	540.00	+5.00	+0.93%	8.134M	4.039M	6.429T	N/A	
+9434.T	SoftBank Corp.	1,339.00	+5.50	+0.41%	10.962M	23.202M	6.41T	N/A	
+IIKP.JK	PT Inti Agri Resources Tbk	190.00	0.00	0.00%	503.48M	391.183M	6.384T	N/A	
+BATS.L	British American Tobacco p.l.c.	2,998.50	+18.50	+0.62%	5.415M	4.553M	63.715B	11.39	
+2330.TW	Taiwan Semiconductor Manufacturing Company Limited	239.00	+4.50	+1.92%	33.65M	24.347M	6.197T	17.65	
+BKSL.JK	PT Sentul City Tbk	111.00	0.00	0.00%	226.32M	105.219M	6.134T	N/A	
+ASRI.JK	PT Alam Sutera Realty Tbk	310.00	+2.00	+0.65%	6.666M	12.289M	6.091T	N/A	
+9433.T	KDDI Corporation	2,536.00	-18.50	-0.72%	6.428M	5.225M	5.99T	10.77	
+BTEK.JK	PT Bumi Teknokultura Unggul Tbk	122.00	-1.00	-0.81%	10.219M	11.09M	5.646T	N/A	
+WOOD.JK	PT Integra Indocabinet Tbk	880.00	+10.00	+1.15%	8.369M	23.737M	5.55T	N/A	
+8316.T	Sumitomo Mitsui Financial Group, Inc.	3,920.00	+25.00	+0.64%	5.455M	5.072M	5.471T	7.53	
+RIMO.JK	PT Rimo International Lestari Tbk	133.00	-1.00	-0.75%	964.497M	591.674M	5.444T	N/A	
+ESSA.JK	PT Surya Esa Perkasa Tbk	376.00	-4.00	-1.05%	12.311M	32.962M	5.377T	N/A	
+6178.T	Japan Post Holdings Co., Ltd.	1,312.00	-23.00	-1.72%	7.603M	5.131M	5.305T	11.61	
+BMTR.JK	PT. Global Mediacom Tbk	382.00	+32.00	+9.14%	47.793M	32.244M	5.289T	N/A	
+6098.T	Recruit Holdings Co., Ltd.	3,067.00	+29.00	+0.95%	3.248M	3.823M	5.124T	33.85	
+8058.T	Mitsubishi Corporation	3,129.00	-13.00	-0.41%	3.72M	3.325M	4.964T	8.88	
+2914.T	Japan Tobacco Inc.	2,797.00	-15.50	-0.55%	4.67M	4.962M	4.984T	12.82	
+WTON.JK	PT Wijaya Karya Beton Tbk	585.00	-10.00	-1.68%	19.7M	35.356M	4.878T	N/A	
+ENELCHILE.SN	Enel Chile S.A.	69.90	+0.80	+1.16%	61.483M	19.125M	4.835T	12.35	
+BHIT.JK	PT MNC Investama Tbk	92.00	+11.00	+13.58%	172.147M	40.924M	4.713T	N/A	
+LLOY.L	Lloyds Banking Group plc	63.80	+1.23	+1.97%	209.55M	156.638M	45.438B	11.60	
+8411.T	Mizuho Financial Group, Inc.	172.50	+1.40	+0.82%	128.053M	104.13M	4.374T	7.59	
+CAMP.JK	PT Campina Ice Cream Industry, Tbk.	735.00	+5.00	+0.68%	26.404M	4.098M	4.325T	N/A	
+BBKP.JK	PT Bank Bukopin Tbk	370.00	+2.00	+0.54%	5.767M	14.753M	4.311T	N/A	
+GLEN.L	Glencore plc	306.25	-1.05	-0.34%	36.536M	38.59M	42.084B	12.76	
+PRU.L	Prudential plc	1,583.50	+36.00	+2.33%	6.113M	4.969M	40.882B	18.20	
+VOD.L	Vodafone Group Plc	140.16	+0.76	+0.55%	69.88M	80.659M	38.39B	N/A	
+7201.T	Nissan Motor Co., Ltd.	930.90	+1.60	+0.17%	11.706M	10.531M	3.642T	4.87	
+7201.T	Nissan Motor Co., Ltd.	930.90	+1.60	+0.17%	11.706M	10.531M	3.642T	4.87	
+WEGE.JK	PT Wijaya Karya Bangunan Gedung Tbk.	378.00	-6.00	-1.56%	28.092M	33.93M	3.618T	N/A	
+ITC.NS	ITC Limited	291.80	-3.70	-1.25%	5.534M	12.522M	3.575T	31.72	
+0700.HK	Tencent Holdings Limited	361.200	+3.600	+1.01%	9.324M	16.82M	3.415T	39.65	
+CLEO.JK	PT Sariguna Primatirta Tbk	280.00	+2.00	+0.72%	9.548M	11.197M	3.36T	N/A	
+4503.T	Astellas Pharma Inc.	1,724.50	+5.50	+0.32%	5.264M	5.995M	3.313T	21.28	
+RBS.L	The Royal Bank of Scotland Group plc	265.90	+4.70	+1.80%	14.942M	16.278M	32.016B	19.84	
+INFY.NS	Infosys Limited	719.35	+11.00	+1.55%	7.446M	7.521M	3.129T	1,439.10	
+BRMS.JK	PT Bumi Resources Minerals Tbk	50.00	0.00	0.00%	6.742M	78.819M	3.116T	N/A	
+TDPM.JK	PT Tridomain Performance Materials Tbk	294.00	-4.00	-1.34%	11.491M	17.873M	3.083T	N/A	
+8031.T	Mitsui & Co., Ltd.	1,741.00	+4.50	+0.26%	3.9M	4.247M	3.026T	7.33	
+ITAUCORP.SN	Itaú CorpBanca	5.93	-0.13	-2.15%	375.505M	118.627M	3.039T	17.65	
+6503.T	Mitsubishi Electric Corporation	1,364.50	+13.00	+0.96%	4.519M	4.976M	2.927T	10.77	
+NG.L	National Grid plc	873.50	-0.30	-0.03%	5.484M	7.342M	29.787B	8.96	
+BARC.L	Barclays PLC	164.98	+1.08	+0.66%	42.933M	42.137M	28.252B	17.93	
+8802.T	Mitsubishi Estate Co., Ltd.	1,992.50	+8.00	+0.40%	4.14M	3.498M	2.766T	22.97	
+8801.T	Mitsui Fudosan Co., Ltd.	2,795.00	+47.00	+1.71%	5.502M	2.648M	2.745T	17.73	
+ELSA.JK	PT Elnusa Tbk	376.00	-6.00	-1.57%	23.118M	39.791M	2.744T	N/A	
+MTDL.JK	P.T. Metrodata Electronics Tbk	1,110.00	+65.00	+6.22%	28.493M	4.443M	2.725T	N/A	
+COLBUN.SN	Colbún S.A.	153.00	-0.15	-0.10%	9.988M	6.066M	2.683T	10,928.57	
+SSIA.JK	PT Surya Semesta Internusa Tbk	580.00	0.00	0.00%	15.632M	21.929M	2.697T	N/A	
+SPTO.JK	PT Surya Pertiwi Tbk	990.00	0.00	0.00%	7.873M	8.358M	2.673T	N/A	
+SBIN.NS	State Bank of India	296.85	+4.95	+1.70%	18.498M	17.072M	2.649T	N/A	
+ICICIBANK.NS	ICICI Bank Limited	394.40	+6.50	+1.68%	15.557M	16.521M	2.528T	33.15	
+KOTAKBANK.NS	Kotak Mahindra Bank Limited	1,328.00	+59.05	+4.65%	7.645M	3.807M	2.534T	36.45	
+6301.T	Komatsu Ltd.	2,626.50	+1.00	+0.04%	3.629M	5.182M	2.479T	12.63	
+VIVA.JK	PT Visi Media Asia Tbk	140.00	+3.00	+2.19%	11.678M	27.282M	2.289T	N/A	
+IKAI.JK	PT Intikeramik Alamasri Industri Tbk	187.00	-5.00	-2.60%	13.637M	75.171M	2.262T	N/A	
+6752.T	Panasonic Corporation	962.60	-0.70	-0.07%	11.552M	7.856M	2.245T	9.52	
+TSCO.L	Tesco PLC	228.30	-1.10	-0.48%	11.473M	24.145M	22.224B	20.38	
+BT-A.L	BT Group plc	221.00	+2.50	+1.14%	19.948M	26.495M	21.771B	10.83	
+8830.T	Sumitomo Realty & Development Co., Ltd.	4,501.00	+22.00	+0.49%	1.572M	1.325M	2.133T	17.24	
+TGRA.JK	PT. Terregra Asia Energy Tbk	770.00	-25.00	-3.14%	27.476M	23.047M	2.118T	N/A	
+MPPA.JK	PT Matahari Putra Prima Tbk	278.00	+10.00	+3.73%	8.867M	10.775M	2.093T	N/A	
+1398.HK	Industrial and Commercial Bank of China Limited	5.980	+0.010	+0.17%	134.615M	195.248M	2.026T	6.31	
+0939.HK	China Construction Bank Corporation	6.990	+0.020	+0.29%	226.862M	275.865M	2.044T	6.07	
+8591.T	ORIX Corporation	1,552.50	+10.00	+0.65%	7.874M	4.18M	1.987T	6.36	
+6326.T	Kubota Corporation	1,532.50	+2.50	+0.16%	4.084M	3.138M	1.888T	13.83	
+8750.T	Dai-ichi Life Holdings, Inc.	1,620.50	+4.00	+0.25%	4.835M	4.454M	1.856T	5.22	
+5020.T	JXTG Holdings, Inc.	542.90	+0.40	+0.07%	29.788M	15.451M	1.821T	5.13	
+MLPL.JK	PT Multipolar Tbk	124.00	+3.00	+2.48%	6.546M	24.229M	1.815T	N/A	
+601939.SS	China Construction Bank Corporation	7.03	+0.08	+1.15%	132.54M	90.05M	1.753T	N/A	
+0941.HK	China Mobile Limited	85.800	+0.300	+0.35%	10.203M	15.891M	1.757T	12.83	
+FORZ.JK	PT Forza Land Indonesia Tbk	865.00	+5.00	+0.58%	9.692M	15.173M	1.716T	N/A	
+2318.HK	Ping An Insurance (Group) Company of China, Ltd.	86.450	+1.100	+1.29%	36.753M	34.666M	1.686T	12.61	
+3407.T	Asahi Kasei Corporation	1,182.50	-30.00	-2.47%	5.241M	3.434M	1.651T	9.70	
+AV.L	Aviva plc	425.60	+5.80	+1.38%	7.569M	9.545M	16.611B	11.26	
+LGEN.L	Legal & General Group Plc	278.40	+3.70	+1.35%	15.973M	14.045M	16.531B	9.10	
+601398.SS	Industrial and Commercial Bank of China Limited	5.58	+0.01	+0.18%	250.067M	175.544M	1.727T	N/A	
+AESGENER.SN	AES Gener S.A.	189.74	-1.05	-0.55%	7.248M	3.363M	1.594T	5,580.59	
+0857.HK	PetroChina Company Limited	5.140	+0.020	+0.39%	64.108M	86.217M	1.595T	35.73	
+1605.T	Inpex Corporation	1,041.00	-5.50	-0.53%	7.415M	4.629M	1.52T	37.67	
+BA.L	BAE Systems plc	470.40	+7.80	+1.69%	7.797M	7.882M	15.026B	15.08	
+COALINDIA.NS	Coal India Limited	240.15	-3.05	-1.25%	6.874M	7.066M	1.491T	11.75	
+601318.SS	Ping An Insurance (Group) Company of China, Ltd.	73.85	+1.05	+1.44%	125.525M	62.88M	1.446T	N/A	
+025980.KQ	Ananti Inc.	17,750.00	-1,850.00	-9.44%	7.99M	68,643	1.436T	N/A	
+IOC.NS	Indian Oil Corporation Limited	155.80	+4.70	+3.11%	9.077M	12.601M	1.427T	8.74	
+4689.T	Yahoo Japan Corporation	280.00	-1.00	-0.36%	10.158M	17.001M	1.423T	12.16	
+HOKI.JK	PT Buyung Poetra Sembada Tbk	600.00	+5.00	+0.84%	12.345M	21.099M	1.425T	N/A	
+PTT.BK	PTT Public Company Limited	48.25	+0.25	+0.52%	31.826M	51.372M	1.378T	11.62	
+PTT-R.BK	PTT Public Company Limited	48.25	+0.25	+0.52%	31.826M	N/A	1.378T	2.32	
+8604.T	Nomura Holdings, Inc.	413.90	+0.30	+0.07%	16.453M	12.453M	1.37T	6.69	
+MARI.JK	PT Mahaka Radio Integra Tbk	258.00	-4.00	-1.53%	5.698M	9.007M	1.355T	N/A	
+601857.SS	PetroChina Company Limited	7.70	+0.03	+0.39%	89.443M	58.517M	1.355T	N/A	
+8002.T	Marubeni Corporation	781.70	+4.40	+0.57%	4.885M	5.311M	1.357T	6.55	
+BHARTIARTL.NS	Bharti Airtel Limited	333.25	-9.15	-2.67%	5.29M	6.679M	1.331T	344.27	
+3988.HK	Bank of China Limited	3.680	+0.020	+0.55%	157.036M	259.174M	1.302T	5.48	
+4755.T	Rakuten, Inc.	969.00	+26.00	+2.76%	15.428M	6.689M	1.31T	12.96	
+1288.HK	Agricultural Bank of China Limited	3.740	+0.030	+0.81%	83.877M	99.457M	1.303T	5.38	
+298380.KQ	ABL Bio Inc.	29,050.00	+250.00	+0.87%	12.252M	N/A	1.295T	N/A	
+DEAL.JK	PT Dewata Freightinternational Tbk	1,155.00	-25.00	-2.12%	21.1M	44.284M	1.294T	N/A	
+0005.HK	HSBC Holdings plc	64.800	+0.150	+0.23%	14.272M	18.041M	1.293T	13.13	
+NTPC.NS	NTPC Limited	156.50	+2.85	+1.85%	7.02M	10.975M	1.29T	12.24	
+KBLI.JK	PT KMI Wire and Cable Tbk	312.00	0.00	0.00%	10.114M	15.78M	1.25T	N/A	
+BULL.JK	PT Buana Lintas Lautan Tbk.	165.00	-1.00	-0.60%	18.186M	21.626M	1.204T	N/A	
+3402.T	Toray Industries, Inc.	743.40	+17.90	+2.47%	9.432M	4.348M	1.189T	12.41	
+HKMU.JK	PT HK Metals Utama Tbk	360.00	+2.00	+0.56%	9.351M	15.813M	1.16T	N/A	
+4188.T	Mitsubishi Chemical Holdings Corporation	813.00	+11.00	+1.37%	11.052M	5.865M	1.154T	5.98	
+8308.T	Resona Holdings, Inc.	493.00	+2.80	+0.57%	10.217M	8.797M	1.142T	4.90	
+9501.T	Tokyo Electric Power Company Holdings, Incorporated	701.00	+1.00	+0.14%	6.824M	13.162M	1.123T	10.90	
+601288.SS	Agricultural Bank of China Limited	3.7100	+0.0100	+0.27%	274.261M	270.276M	1.11T	N/A	
+6505.TW	Formosa Petrochemical Corporation	116.00	+4.00	+3.57%	5.919M	2.143M	1.105T	12.63	
+601988.SS	Bank of China Limited	3.7900	0.0000	0.00%	151.803M	135.576M	1.104T	N/A	
+JSKY.JK	PT Sky Energy Indonesia Tbk	1,085.00	+55.00	+5.34%	5.35M	2.82M	1.103T	N/A	
+IAG.L	International Consolidated Airlines Group, S.A.	543.80	+4.80	+0.89%	8.303M	7.918M	10.785B	3.40	
+6645.T	OMRON Corporation	5,140.00	-150.00	-2.84%	24.743M	1.23M	1.057T	17.32	
+BUVA.JK	PT Bukit Uluwatu Villa Tbk	154.00	-1.00	-0.65%	16.42M	14.224M	1.049T	N/A	
+2317.TW	Hon Hai Precision Industry Co., Ltd.	70.60	-0.50	-0.70%	39.104M	18.539M	978.622B	8.34	
+600519.SS	Kweichow Moutai Co., Ltd.	777.30	-0.70	-0.09%	5.24M	3.575M	976.444B	N/A	
+AOT-R.BK	Airports of Thailand Public Company Limited	68.50	-0.50	-0.72%	13.532M	N/A	978.57B	38.66	
+AOT.BK	Airports of Thailand Public Company Limited	68.50	-0.50	-0.72%	13.531M	21.172M	978.57B	38.66	
+1299.HK	AIA Group Limited	78.600	-0.150	-0.19%	24.348M	18.977M	945.118B	19.74	
+AMXL.MX	América Móvil, S.A.B. de C.V.	13.91	-0.15	-1.07%	0	37.113M	918.404B	19.05	
+8601.T	Daiwa Securities Group Inc.	568.50	+7.80	+1.39%	5.15M	5.78M	898.247B	8.56	
+6506.T	YASKAWA Electric Corporation	3,250.00	+70.00	+2.20%	3.623M	3.066M	857.395B	21.76	
+MRO.L	Melrose Industries PLC	183.10	+3.15	+1.75%	13.853M	16.008M	8.895B	N/A	
+WALMEX.MX	Wal-Mart de México, S.A.B. de C.V.	50.71	-1.29	-2.48%	0	13.096M	885.468B	24.09	
+4005.T	Sumitomo Chemical Company, Limited	539.00	+9.00	+1.70%	7.784M	7.715M	881.276B	6.35	
+MSFT	Microsoft Corporation	114.59	+0.09	+0.08%	30.763M	33.775M	879.158B	26.58	
+2628.HK	China Life Insurance Company Limited	21.300	+0.150	+0.71%	35.229M	52.139M	884.01B	15.72	
+6723.T	Renesas Electronics Corporation	526.00	-14.00	-2.59%	14.656M	8.015M	877.589B	11.37	
+BEZQ.TA	Bezeq The Israel Telecommunication Corporation Limited	305.00	-11.00	-3.48%	13.483M	11.036M	843.468B	935.58	
+2412.TW	Chunghwa Telecom Co., Ltd.	108.00	+0.50	+0.47%	16.944M	6.307M	837.805B	23.58	
+3968.HK	China Merchants Bank Co., Ltd.	36.350	+0.250	+0.69%	8.753M	20.689M	819.776B	10.91	
+VAPORES.SN	Compañía Sud Americana de Vapores S.A.	21.80	0.00	0.00%	12.019M	17.319M	802.172B	N/A	
+MABA.JK	PT Marga Abhinaya Abadi Tbk	52.00	-1.00	-1.89%	1.242B	805.74M	798.99B	N/A	
+ISSP.JK	PT Steel Pipe Industry of Indonesia Tbk	109.00	0.00	0.00%	7.078M	29.603M	770.839B	N/A	
+601628.SS	China Life Insurance Company Limited	28.75	+0.37	+1.30%	18.439M	12.826M	757.6B	N/A	
+ENRG.JK	PT Energi Mega Persada Tbk	72.00	+1.00	+1.41%	145.593M	120.926M	744.638B	N/A	
+0386.HK	China Petroleum & Chemical Corporation	6.680	+0.090	+1.37%	83.443M	96.651M	741.821B	13.17	
+NUSA.JK	PT Sinergi Megah Internusa Tbk	94.00	-2.00	-2.08%	717.169M	62.113M	731.5B	N/A	
+8795.T	T&D Holdings, Inc.	1,197.00	-5.50	-0.46%	5.08M	2.323M	732.511B	11.35	
+600036.SS	China Merchants Bank Co., Ltd.	31.67	+0.22	+0.70%	59.594M	48.601M	700.379B	N/A	
+CNA.L	Centrica plc	120.75	-1.50	-1.23%	24.397M	23.009M	6.873B	37.73	
+CPALL.BK	CP ALL Public Company Limited	76.25	-1.00	-1.29%	15.517M	26.401M	684.961B	34.36	
+CPALL-R.BK	CP ALL Public Company Limited	76.25	-1.00	-1.29%	15.489M	N/A	684.961B	34.36	
+1301.TW	Formosa Plastics Corporation	105.50	+1.50	+1.44%	10.727M	5.651M	671.586B	11.18	
+MAMI.JK	PT Mas Murni Indonesia, Tbk	127.00	+2.00	+1.60%	176.389M	85.526M	651.16B	N/A	
+WIIM.JK	PT Wismilak Inti Makmur Tbk	310.00	-4.00	-1.27%	31.578M	32.974M	650.96B	N/A	
+3092.T	ZOZO, Inc.	2,118.00	+26.00	+1.24%	10.87M	8.431M	646.615B	32.75	
+0883.HK	CNOOC Limited	14.120	+0.360	+2.62%	51.8M	48.14M	630.423B	21.41	
+1326.TW	Formosa Chemicals & Fibre Corporation	108.00	+0.50	+0.47%	5.953M	4.766M	630.047B	9.97	
+600028.SS	China Petroleum & Chemical Corporation	5.94	+0.01	+0.17%	105.388M	120.276M	629.177B	N/A	
+SLA.L	Standard Life Aberdeen plc	255.60	+4.80	+1.91%	9.117M	9.928M	6.235B	10.83	
+1303.TW	Nan Ya Plastics Corporation	76.00	+0.40	+0.53%	7.988M	4.186M	602.742B	9.08	
+TW.L	Taylor Wimpey plc	182.15	+0.30	+0.16%	9.436M	13.831M	5.949B	9.11	
+ORL.TA	Oil Refineries Ltd.	180.00	-4.90	-2.65%	19.518M	3.816M	576.691B	2,168.67	
+2882.TW	Cathay Financial Holding Co., Ltd.	45.45	+0.35	+0.78%	23.539M	13.773M	570.997B	9.35	
+GAMA.JK	PT Aksara Global Development Tbk	56.00	-27.00	-32.53%	154.660M	3.698M	570.627B	N/A	
+YESBANK.NS	Yes Bank Limited	245.45	-4.40	-1.76%	25.367M	52.329M	568.045B	13.57	
+TATAMOTORS.NS	Tata Motors Limited	178.25	-1.30	-0.72%	6.345M	17.125M	566.053B	6.74	
+ORO-BLANCO.SN	Sociedad de Inversiones Oro Blanco S.A.	4.1000	-0.0200	-0.49%	80.104M	20.775M	561.405B	N/A	
+7186.T	Concordia Financial Group, Ltd.	430.00	-1.00	-0.23%	3.036M	4.218M	534.804B	8.22	
+ITV.L	ITV plc	135.35	+3.95	+3.01%	11.026M	11.779M	5.412B	11.67	
+MRW.L	Wm Morrison Supermarkets PLC	225.00	-1.50	-0.66%	6.403M	8.983M	5.311B	22.28	
+OMU.L	Old Mutual Ltd	108.36	-5.48	-4.81%	7.508M	4.371M	5.285B	5.73	
+2881.TW	Fubon Financial Holding Co., Ltd.	45.25	0.00	0.00%	17.439M	10.566M	520.389B	7.89	
+3328.HK	Bank of Communications Co., Ltd.	6.590	+0.010	+0.15%	15.968M	25.727M	480.364B	6.04	
+KGF.L	Kingfisher plc	239.00	+5.20	+2.22%	6.493M	7.66M	5.022B	13.06	
+SBRY.L	J Sainsbury plc	227.10	+0.10	+0.04%	5.914M	9.154M	4.997B	17.88	
+2768.T	Sojitz Corporation	397.00	-3.00	-0.75%	11.706M	8.985M	495.948B	8.74	
+FB	Facebook, Inc.	170.17	-3.20	-1.85%	18.037M	22.43M	485.663B	22.48	
+PTTEP-R.BK	PTT Exploration and Production Public Company Limited	119.50	-1.00	-0.83%	11.185M	N/A	474.414B	444.24	
+PTTEP.BK	PTT Exploration and Production Public Company Limited	119.50	-1.00	-0.83%	11.185M	13.628M	474.414B	444.24	
+3289.T	Tokyu Fudosan Holdings Corporation	649.00	+9.00	+1.41%	4.109M	3.001M	466.554B	11.23	
+BABA	Alibaba Group Holding Limited	180.36	-0.34	-0.19%	9.272M	14.81M	467.526B	51.58	
+STAR.JK	PT Star Petrochem, Tbk	97.00	-24.00	-19.83%	124.817M	2.14M	465.6B	N/A	
+9831.T	Yamada Denki Co., Ltd.	573.00	+16.00	+2.87%	8.753M	4.105M	466.033B	12.49	
+NORTEGRAN.SN	Norte Grande S.A.	4.2110	+0.0080	+0.19%	5.198M	6.58M	446.206B	4,211.00	
+ZEEL.NS	Zee Entertainment Enterprises Limited	463.00	+13.20	+2.93%	8.586M	11.301M	444.696B	29.53	
+045390.KQ	DAEA TI Co., Ltd.	6,280.00	-480.00	-7.10%	6.526M	780,854	440.551B	N/A	
+SRSN.JK	PT Indo Acidatama Tbk	74.00	+4.00	+5.71%	13.995M	8.915M	445.48B	N/A	
+1216.TW	Uni-President Enterprises Corp.	73.30	+1.00	+1.38%	18.175M	5.357M	416.492B	10.53	
+601328.SS	Bank of Communications Co., Ltd.	6.38	+0.01	+0.16%	106.852M	77.558M	411.425B	N/A	
+CINE.L	Cineworld Group plc	300.00	+11.00	+3.81%	7.956M	3.659M	4.113B	15.08	
+044340.KQ	Winix Inc.	24,050.00	+2,450.00	+11.34%	5.159M	278,091	404.357B	N/A	
+2891.TW	CTBC Financial Holding Co., Ltd.	20.65	+0.10	+0.49%	50.486M	22.157M	402.613B	10.75	
+1088.HK	China Shenhua Energy Company Limited	19.180	+0.100	+0.52%	8.778M	14.933M	400.81B	6.66	
+PETR3.SA	Petróleo Brasileiro S.A. - Petrobras	31.29	+0.35	+1.13%	0	8.708M	392.862B	15.84	
+1658.HK	Postal Savings Bank of China Co., Ltd.	4.810	+0.010	+0.21%	11.776M	37.849M	389.757B	N/A	
+PETR4.SA	Petróleo Brasileiro S.A. - Petrobras	28.19	+0.09	+0.32%	42.499M	56.012M	387.79B	14.27	
+2308.TW	Delta Electronics, Inc.	149.00	-1.00	-0.67%	7.312M	6.828M	387.033B	23.06	
+2002.TW	China Steel Corporation	25.05	+0.30	+1.21%	18.885M	11.395M	386.146B	15.80	
+601166.SS	Industrial Bank Co., Ltd.	18.44	+0.25	+1.37%	82.399M	57.453M	383.076B	N/A	
+2886.TW	Mega Financial Holding Company Ltd.	27.45	+0.15	+0.55%	13.351M	13.449M	373.315B	14.09	
+BDMS.BK	Bangkok Dusit Medical Services Public Company Limited	23.70	+0.10	+0.42%	15.708M	55.863M	371.355B	40.17	
+BDMS-R.BK	Bangkok Dusit Medical Services Public Company Limited	23.70	+0.10	+0.42%	15.708M	N/A	371.355B	40.17	
+JNJ	Johnson & Johnson	138.02	-1.39	-1.00%	7.702M	9.498M	367.516B	24.62	
+3436.T	Sumco Corporation	1,227.00	+2.00	+0.16%	11.606M	11.987M	359.852B	9.95	
+600900.SS	China Yangtze Power Co.,Ltd.	16.28	-0.01	-0.06%	17.648M	18.104M	358.16B	N/A	
+DLF.NS	DLF Limited	199.10	-2.75	-1.36%	6.455M	6.839M	355.29B	38.73	
+JPM	JPMorgan Chase & Co.	105.34	+0.95	+0.91%	10.372M	15.202M	345.019B	11.70	
+0728.HK	China Telecom Corporation Limited	4.270	-0.010	-0.23%	19.565M	41.877M	345.581B	15.49	
+0998.HK	China CITIC Bank Corporation Limited	5.250	-0.010	-0.19%	24.595M	34.358M	343.611B	5.21	
+2388.HK	BOC Hong Kong (Holdings) Limited	32.450	+0.050	+0.15%	5.153M	10.879M	343.087B	11.04	
+0267.HK	CITIC Limited	11.760	+0.020	+0.17%	11.442M	12.51M	342.102B	7.79	
+XOM	Exxon Mobil Corporation	80.44	-0.27	-0.33%	9.977M	14.78M	340.647B	16.48	
+V	Visa Inc.	154.20	+1.73	+1.13%	8.869M	9.342M	338.787B	33.17	
+3333.HK	China Evergrande Group	26.000	+1.200	+4.84%	23.985M	15.789M	341.214B	11.83	
+601088.SS	China Shenhua Energy Company Limited	19.98	+0.13	+0.65%	18.415M	14.594M	335.958B	N/A	
+600000.SS	Shanghai Pudong Development Bank Co., Ltd.	11.43	-0.03	-0.26%	33.769M	27.002M	335.495B	N/A	
+002415.SZ	Hangzhou Hikvision Digital Technology Co., Ltd.	35.85	+1.22	+3.52%	47.426M	33.141M	335.143B	N/A	
+IDBI.NS	IDBI Bank Limited	43.20	+0.20	+0.47%	16.678M	6.151M	334.596B	N/A	
+PNB.NS	Punjab National Bank	86.35	+1.90	+2.25%	28.347M	22.668M	328.497B	N/A	
+CPN.BK	Central Pattana Public Company Limited	71.75	-0.75	-1.03%	5.115M	6.201M	322.014B	28.71	
+CPN-R.BK	Central Pattana Public Company Limited	71.75	-0.75	-1.03%	5.115M	N/A	322.014B	28.71	
+TLW.L	Tullow Oil plc	229.20	+0.30	+0.13%	6.156M	6.247M	3.203B	38.85	
+0788.HK	China Tower Corporation Limited	1.810	-0.040	-2.16%	410.172M	678.504M	318.574B	N/A	
+LEAD.JK	PT Logindo Samudramakmur Tbk	78.00	-4.00	-4.88%	62.731M	108.065M	315.87B	N/A	
+000333.SZ	Midea Group Co., Ltd.	47.93	+1.52	+3.28%	67.236M	27.826M	315.316B	N/A	
+BANKBARODA.NS	Bank of Baroda	118.25	+1.70	+1.46%	13.861M	13.419M	314.416B	N/A	
+2202.HK	China Vanke Co., Ltd.	30.200	+0.500	+1.68%	7.57M	6.785M	311.492B	14.30	
+0688.HK	China Overseas Land & Investment Limited	28.600	+0.400	+1.42%	7.704M	13.542M	313.347B	7.69	
+1928.HK	Sands China Ltd.	38.150	+1.000	+2.69%	9.216M	11.939M	308.296B	20.98	
+3690.HK	Meituan Dianping	52.250	+3.950	+8.18%	12.549M	6.696M	295.724B	N/A	
+GVC.L	GVC Holdings PLC	530.00	-12.00	-2.21%	5.999M	4.921M	3.084B	N/A	
+600663.SS	Shanghai Lujiazui Finance & Trade Zone Development Co., Ltd.	18.15	+0.78	+4.49%	16.47M	5.458M	306.238B	N/A	
+000858.SZ	Wuliangye Yibin Co.,Ltd.	78.78	+1.63	+2.11%	40.767M	28.371M	305.793B	N/A	
+0762.HK	China Unicom (Hong Kong) Limited	9.950	0.000	0.00%	38.094M	32.457M	304.451B	26.48	
+PTTGC-R.BK	PTT Global Chemical Public Company Limited	67.50	0.00	0.00%	10.569M	N/A	304.347B	7.60	
+QLT.L	Quilter plc	140.44	+1.44	+1.04%	9.076M	3.474M	2.672B	5.30	
+000002.SZ	China Vanke Co., Ltd.	28.07	+0.61	+2.22%	77.818M	45.669M	267.105B	N/A	
+KTB.BK	Krung Thai Bank Public Company Limited	18.90	+0.10	+0.53%	8.983M	24.776M	264.148B	9.26	
+KTB-R.BK	Krung Thai Bank Public Company Limited	18.90	+0.10	+0.53%	8.983M	N/A	264.148B	9.26	
+3711.TW	ASE Technology Holding Co., Ltd.	62.10	-0.90	-1.43%	12.894M	5.005M	263.844B	10.63	
+600276.SS	Jiangsu Hengrui Medicine Co., Ltd.	71.52	+1.46	+2.08%	25.606M	18.843M	263.613B	N/A	
+1766.HK	CRRC Corporation Limited	7.990	0.000	0.00%	10.262M	20.041M	262.598B	17.54	
+008350.KS	Namsun Aluminum Co., Ltd.	2,380.00	-35.00	-1.45%	5.248M	10.671M	262.226B	N/A	
+ABEV3.SA	Ambev S.A.	16.66	-0.24	-1.42%	20.502M	20.768M	261.914B	23.97	
+VALE3.SA	Vale S.A.	50.71	+0.01	+0.02%	0	24.008M	259.953B	19.22	
+RMG.L	Royal Mail plc	259.70	+12.80	+5.18%	5.826M	6.78M	2.597B	27.63	
+2892.TW	First Financial Holding Co., Ltd.	20.85	-0.10	-0.48%	20.726M	10.123M	257.26B	17.25	
+601668.SS	China State Construction Engineering Corporation Limited	6.12	+0.05	+0.82%	194.927M	174.159M	256.949B	N/A	
+ABBA.JK	PT Mahaka Media Tbk	93.00	-1.00	-1.06%	17.918M	20.449M	256.226B	N/A	
+PG	The Procter & Gamble Company	101.32	+0.14	+0.14%	8.24M	9.943M	253.46B	24.64	
+BANKINDIA.NS	Bank of India Limited	93.25	+0.90	+0.97%	8.147M	10.749M	251.484B	N/A	
+IDFCFIRSTB.NS	IDFC First Bank Limited	52.00	+1.40	+2.77%	22.526M	15.949M	248.886B	20.17	
+095720.KS	Woongjin Thinkbig Co., Ltd.	3,320.00	-425.00	-11.35%	7.214M	1.192M	249.066B	N/A	
+600221.SS	Hainan Airlines Holding Co.,Ltd.	2.2400	-0.0200	-0.88%	139.125M	85.251M	247.852B	N/A	
+RDSA.AS	Royal Dutch Shell plc	27.92	0.00	0.00%	7.691M	7.516M	247.489B	9.97	
+601601.SS	China Pacific Insurance (Group) Co., Ltd.	32.89	+0.28	+0.86%	28.935M	20.808M	245.865B	N/A	
+WFC	Wells Fargo & Company	50.35	+0.43	+0.86%	18.9M	21.515M	229.063B	11.76	
+2884.TW	E.SUN Financial Holding Company, Ltd.	22.50	+0.15	+0.67%	24.464M	12.569M	243.65B	14.24	
+BBOX.L	Tritax Big Box	142.60	+1.10	+0.78%	5.578M	636,019	2.434B	7.20	
+2007.HK	Country Garden Holdings Company Limited	11.340	+0.200	+1.80%	45.132M	37.17M	243.752B	7.70	
+INTC	Intel Corporation	53.44	-0.93	-1.71%	26.647M	25.7M	240.32B	11.93	
+041190.KQ	Woori Technology Investment Co., Ltd.	3,150.00	-165.00	-4.98%	5.797M	15.34M	239.939B	N/A	
+VZ	Verizon Communications Inc.	57.95	+0.29	+0.50%	10.515M	16.304M	239.452B	15.41	
+5880.TW	Taiwan Cooperative Financial Holding Co., Ltd.	19.00	0.00	0.00%	15.104M	7.728M	238.807B	16.16	
+600016.SS	China Minsheng Banking Corp., Ltd.	6.45	+0.01	+0.16%	100.314M	93.373M	238.193B	N/A	
+CVX	Chevron Corporation	124.60	-0.07	-0.06%	5.146M	6.985M	236.747B	16.10	
+600030.SS	CITIC Securities Company Limited	23.81	+0.44	+1.88%	246.458M	156.518M	235.326B	N/A	
+CSCO	Cisco Systems, Inc.	52.74	+0.15	+0.29%	18.044M	23.522M	232.163B	19.24	
+0027.HK	Galaxy Entertainment Group Limited	52.900	+1.350	+2.62%	15.245M	12.223M	229.042B	16.91	
+PFE	Pfizer Inc.	41.19	-0.82	-1.95%	27.334M	26.486M	228.679B	22.07	
+NESN.VX	Nestlé S.A.	94.60	+1.14	+1.22%	6.434M	6.568M	289.244B	40.78	
+ITUB4.SA	Itaú Unibanco Holding S.A.	36.81	-0.59	-1.58%	17.77M	18.927M	333.957B	14.45	
+T	AT&T Inc.	30.28	0.00	0.00%	20.569M	36.674M	220.577B	10.63	
+601766.SS	CRRC Corporation Limited	9.21	+0.05	+0.55%	83.984M	68.216M	220.647B	N/A	
+2382.TW	Quanta Computer Inc.	57.00	+0.70	+1.24%	7.313M	5.579M	219.708B	15.20	
+2880.TW	Hua Nan Financial Holdings Co., Ltd.	19.00	+0.05	+0.26%	9.911M	6.643M	219.328B	15.63	
+HOME.JK	PT Hotel Mandarine Regency Tbk	95.00	0.00	0.00%	4.696M	114.611M	215.322B	N/A	
+6818.HK	China Everbright Bank Company Limited	3.900	+0.030	+0.78%	7.829M	9.791M	217.613B	5.57	
+1109.HK	China Resources Land Limited	31.250	+0.900	+2.97%	9.266M	11.353M	216.527B	9.41	
+000001.SZ	Ping An Bank Co., Ltd.	12.50	+0.07	+0.56%	104.541M	90.723M	214.63B	N/A	
+600050.SS	China United Network Communications Limited	6.91	-0.04	-0.58%	273.086M	169.749M	214.493B	N/A	
+SAIL.NS	Steel Authority of India Limited	51.50	-1.20	-2.28%	20.374M	15.153M	212.52B	N/A	
+1800.HK	China Communications Construction Company Limited	8.410	0.000	0.00%	7.441M	13.885M	212.367B	5.70	
+HYDR.ME	Public Joint-Stock Company Federal Hydro-Generating Company - RusHydro	0.5011	+0.0001	+0.02%	51.46M	481.432M	211.683B	N/A	
+BA	The Boeing Company	373.30	-3.84	-1.02%	13.35M	5.845M	210.909B	20.91	
+MRK	Merck & Co., Inc.	81.49	+0.44	+0.54%	7.261M	12.33M	210.344B	35.12	
+FEES.ME	Public Joint-Stock Company Federal Grid Company of Unified Energy System	0.1663	+0.0007	+0.45%	102.58M	1.039B	209.745B	N/A	
+2885.TW	Yuanta Financial Holding Co., Ltd.	17.85	+0.15	+0.85%	16.596M	17.476M	208.32B	10.39	
+2207.TW	Hotai Motor Co.,Ltd.	379.50	+26.50	+7.51%	11.544M	423,190	207.275B	20.73	
+600848.SS	Shanghai Lingang Holdings Co.,Ltd	30.34	+1.80	+6.31%	33.366M	7.961M	207.267B	N/A	
+179290.KQ	M.I.Tech Co., Ltd.	6,760.00	+250.00	+3.84%	8.993M	N/A	205.664B	N/A	
+1101.TW	Taiwan Cement Corp.	38.65	+0.05	+0.13%	16.75M	10.121M	205.156B	9.64	
+300498.SZ	Wens Foodstuff Group Co., Ltd.	38.40	+1.17	+3.14%	54.734M	25.564M	204.023B	N/A	
+035890.KQ	Seohee Construction Co., Ltd.	1,205.00	-60.00	-4.74%	6.423M	1.199M	201.841B	N/A	
+0914.HK	Anhui Conch Cement Company Limited	45.150	+0.750	+1.69%	5.625M	7.966M	202.256B	12.55	
+HMPRO-R.BK	Home Product Center Public Company Limited	15.30	+0.10	+0.66%	15.147M	N/A	201.213B	35.83	
+HMPRO.BK	Home Product Center Public Company Limited	15.30	+0.10	+0.66%	15.147M	16.726M	201.213B	35.83	
+2328.HK	PICC Property and Casualty Company Limited	8.980	-0.110	-1.21%	19.393M	30.909M	199.74B	8.41	
+CSIS.JK	PT Cahayasakti Investindo Sukses Tbk	153.00	-11.00	-6.71%	22.428M	43.6M	199.971B	N/A	
+300750.SZ	Contemporary Amperex Technology Co., Limited	89.83	+0.88	+0.99%	7.822M	6.798M	197.179B	N/A	
+CPI.L	Capita plc	119.00	-0.75	-0.63%	11.773M	5.06M	1.971B	N/A	
+2633.TW	Taiwan High Speed Rail Corporation	34.90	+0.35	+1.01%	11.527M	6.19M	196.427B	18.37	
+ADANIPOWER.NS	Adani Power Limited	50.75	-0.40	-0.78%	5.349M	13.583M	195.74B	N/A	
+KO	The Coca-Cola Company	45.70	-0.12	-0.26%	18.109M	16.811M	195.375B	30.47	
+600776.SS	Eastern Communications Co., Ltd.	30.07	-2.54	-7.79%	96.232M	85.519M	194.084B	N/A	
+5876.TW	The Shanghai Commercial & Savings Bank, Ltd.	47.30	+0.20	+0.42%	6.997M	12.607M	193.467B	14.51	
+ORCL	Oracle Corporation	53.05	-0.01	-0.02%	22.494M	17.767M	190.392B	52.94	
+6066.HK	CSC Financial Co., Ltd.	7.040	-0.030	-0.42%	9.456M	10.897M	184.574B	N/A	
+065060.KQ	GNCO Co., Ltd.	1,910.00	+60.00	+3.24%	6.38M	1.963M	186.916B	N/A	
+900100.KQ	New Pride Corporation	2,125.00	-125.00	-5.56%	5.427M	N/A	186.463B	N/A	
+601800.SS	China Communications Construction Company Limited	12.49	+0.14	+1.13%	41.339M	25.027M	184.59B	N/A	
+2408.TW	Nanya Technology Corporation	60.10	-0.20	-0.33%	17.768M	12.433M	182.289B	4.85	
+601818.SS	China Everbright Bank Company Limited	4.1300	0.0000	0.00%	92.069M	83.492M	182.078B	N/A	
+FEDERALBNK.NS	The Federal Bank Limited	91.80	+1.80	+2.00%	8.656M	11.195M	182.206B	18.89	
+CMCSA	Comcast Corporation	39.87	+0.31	+0.78%	13.06M	21.014M	180.45B	15.76	
+EA.BK	Energy Absolute Public Company Limited	48.00	0.00	0.00%	5.843M	17.018M	179.04B	35.98	
+EA-R.BK	Energy Absolute Public Company Limited	48.00	0.00	0.00%	5.843M	N/A	179.04B	35.98	
+2801.TW	Chang Hwa Commercial Bank, Ltd.	18.15	+0.10	+0.55%	8.209M	4.64M	177.68B	14.18	
+SIMA.JK	PT Siwani Makmur Tbk	404.00	+8.00	+2.02%	164.209M	21.453M	178.806B	N/A	
+601360.SS	360 Security Technology Inc.	26.15	+0.11	+0.42%	8.189M	7.705M	176.88B	N/A	
+600585.SS	Anhui Conch Cement Company Limited	36.72	+0.72	+2.00%	38.979M	22.819M	176.643B	N/A	
+2474.TW	Catcher Technology Co., Ltd.	229.00	+2.00	+0.88%	5.07M	4.549M	176.42B	6.08	
+009460.KS	Hanchang Paper Co., Ltd.	2,885.00	+55.00	+1.94%	9.462M	10.244M	172.141B	N/A	
+6886.HK	Huatai Securities Co., Ltd.	15.820	+0.280	+1.80%	6.58M	11.328M	172.995B	10.15	
+600018.SS	Shanghai International Port (Group) Co., Ltd.	7.42	+0.19	+2.63%	92.937M	14.469M	171.949B	N/A	
+DIS	The Walt Disney Company	114.48	+0.39	+0.34%	16.935M	8.1M	170.665B	15.68	
+002304.SZ	Jiangsu Yanghe Brewery Joint-Stock Co., Ltd.	112.33	+2.04	+1.85%	9.932M	5.51M	169.28B	N/A	
+001979.SZ	China Merchants Shekou Industrial Zone Holdings Co., Ltd.	21.35	+0.21	+0.99%	26.44M	23.905M	168.752B	N/A	
+0390.HK	China Railway Group Limited	7.570	+0.020	+0.26%	10.449M	14.302M	169.934B	9.44	
+600604.SS	Shanghai Shibei Hi-Tech Co.,Ltd.	17.28	-0.95	-5.21%	234.914M	128.85M	164.606B	N/A	
+300760.SZ	Shenzhen Mindray Bio-Medical Electronics Co., Ltd.	135.30	+4.85	+3.72%	5.392M	3.594M	164.483B	N/A	
+600048.SS	Poly Developments and Holdings Group Co., Ltd.	13.78	+0.53	+4.00%	183.942M	78.803M	163.913B	N/A	
+600019.SS	Baoshan Iron & Steel Co., Ltd.	7.32	+0.02	+0.27%	62.554M	44.819M	163.061B	N/A	
+PEP	PepsiCo, Inc.	115.50	-1.08	-0.93%	8.987M	5.427M	162.194B	13.15	
+1120.SR	Al Rajhi Banking and Investment Corporation	99.70	+0.90	+0.91%	5.476M	2.545M	162.012B	15.73	
+600887.SS	Inner Mongolia Yili Industrial Group Co., Ltd.	26.59	+0.27	+1.03%	66.131M	37.1M	161.617B	N/A	
+C	Citigroup Inc.	64.11	+0.46	+0.72%	12.194M	19.438M	150.049B	9.59	
+TRUE-R.BK	True Corporation Public Company Limited	4.8200	-0.0400	-0.82%	35.744M	N/A	160.835B	22.84	
+TRUE.BK	True Corporation Public Company Limited	4.8000	-0.0600	-1.23%	35.749M	117.134M	160.167B	22.75	
+1402.TW	Far Eastern New Century Corporation	29.90	-0.05	-0.17%	8.335M	6.653M	160.028B	11.97	
+007110.KS	Ilshinstone.Co.,Ltd.	2,065.00	-235.00	-10.22%	8.429M	6.007M	159.891B	N/A	
+2887.TW	Taishin Financial Holding Co., Ltd.	13.85	+0.10	+0.73%	18.464M	13.86M	158.642B	12.71	
+1918.HK	Sunac China Holdings Limited	35.850	+1.750	+5.13%	25.875M	18.847M	158.316B	10.83	
+BEM-R.BK	Bangkok Expressway and Metro Public Company Limited	10.00	-0.10	-0.99%	36.816M	N/A	152.85B	28.57	
+601066.SS	CSC Financial Co., Ltd.	26.91	-1.52	-5.35%	137.768M	62.054M	154.08B	N/A	
+BEM.BK	Bangkok Expressway and Metro Public Company Limited	10.10	0.00	0.00%	36.803M	58.322M	154.379B	28.86	
+1339.HK	The People's Insurance Company (Group) of China Limited	3.460	-0.020	-0.57%	46.788M	70.361M	153.015B	7.59	
+BBAS3.SA	Banco do Brasil S.A.	53.75	-0.41	-0.76%	8.09M	9.493M	149.722B	11.84	
+601688.SS	Huatai Securities Co., Ltd.	22.52	+0.59	+2.69%	118.91M	70.543M	149.032B	N/A	
+0384.HK	China Gas Holdings Limited	28.150	-0.400	-1.40%	5.73M	9.112M	146.874B	22.89	
+2327.TW	Yageo Corporation	345.50	+6.50	+1.92%	19.45M	10.232M	146.518B	4.63	
+010820.KS	FIRSTEC Co., Ltd	3,140.00	+210.00	+7.17%	7.544M	729,631	146.285B	N/A	
+2883.TW	China Development Financial Holding Corporation	10.05	+0.10	+1.01%	38.417M	12.813M	145.565B	12.97	
+1336.HK	New China Life Insurance Company Ltd.	38.400	+1.050	+2.81%	6.603M	9.309M	145.395B	18.51	
+6837.HK	Haitong Securities Co., Ltd.	10.280	+0.040	+0.39%	12.583M	20.411M	152.447B	11.43	
+019550.KQ	SBI Investment Korea Co., Ltd.	901.00	-38.00	-4.05%	10.438M	35.959M	145.189B	N/A	
+0960.HK	Longfor Group Holdings Limited	24.300	+0.250	+1.04%	6.566M	8.049M	144.427B	9.34	
+1211.HK	BYD Company Limited	49.000	+1.550	+3.27%	8.026M	5.618M	143.235B	29.19	
+024810.KQ	EHWA Technologies Information Co. Ltd.	238.00	-12.00	-4.80%	7.529M	8.05M	143.282B	N/A	
+600801.SS	Huaxin Cement Co., Ltd.	20.80	+0.30	+1.46%	33.437M	11.723M	143.194B	N/A	
+601390.SS	China Railway Group Limited	7.29	+0.01	+0.14%	167.63M	57.57M	142.756B	N/A	
+TOP.BK	Thai Oil Public Company Limited	69.50	0.00	0.00%	5.297M	11.224M	141.782B	13.97	
+601211.SS	Guotai Junan Securities Co., Ltd.	19.25	+0.03	+0.16%	77.315M	42.535M	140.555B	N/A	
+600754.SS	Shanghai Jin Jiang International Hotels Development Co., Ltd.	25.59	+1.73	+7.25%	14.417M	2.702M	140.148B	N/A	
+600845.SS	Shanghai Baosight Software Co., Ltd.	31.36	0.00	0.00%	6.27M	6.358M	139.466B	N/A	
+114570.KQ	G-Smatt Global Co., Ltd.	1,485.00	-115.00	-7.19%	6.147M	496,925	139.434B	N/A	
+2105.TW	Cheng Shin Rubber Ind. Co., Ltd.	43.00	+0.15	+0.35%	9.101M	2.108M	139.381B	36.13	
+2303.TW	United Microelectronics Corporation	11.65	+0.20	+1.75%	28.892M	29.186M	138.612B	21.34	
+900260.KQ	Rothwell International Co., Limited	1,520.00	+35.00	+2.36%	13.689M	1.338M	137.987B	N/A	
+2020.HK	ANTA Sports Products Limited	51.100	+1.800	+3.65%	7.653M	5.494M	137.203B	29.37	
+4938.TW	Pegatron Corporation	52.40	-1.80	-3.32%	27.962M	4.713M	136.889B	11.93	
+NKE	NIKE, Inc.	86.87	+0.94	+1.09%	5.432M	6.961M	136.716B	65.91	
+AGR.L	Assura Plc	57.00	0.00	0.00%	6.747M	4.132M	1.367B	35.62	
+CEMEXCPO.MX	CEMEX, S.A.B. de C.V.	9.03	-0.10	-1.10%	28.839M	30.713M	135.277B	13.24	
+KPAS.JK	PT Cottonindo Ariesta Tbk	176.00	+1.00	+0.57%	19.056M	55.598M	135.168B	N/A	
+0753.HK	Air China Limited	8.230	+0.050	+0.61%	12.491M	16.201M	133.377B	12.76	
+6488.TWO	GlobalWafers Co., Ltd.	304.00	+10.50	+3.58%	8.559M	9.831M	132.58B	N/A	
+601169.SS	Bank of Beijing Co., Ltd.	6.26	-0.02	-0.32%	58.367M	35.596M	132.355B	N/A	
+601229.SS	Bank of Shanghai Co., Ltd.	12.08	+0.02	+0.17%	31.341M	24.893M	132.011B	N/A	
+002700.KS	Shinil Industrial Co.,Ltd	1,850.00	+65.00	+3.64%	7.467M	691,983	131.438B	N/A	
+1102.TW	Asia Cement Corporation	39.00	+0.10	+0.26%	13.958M	6.391M	131.097B	11.17	
+0017.HK	New World Development Company Limited	12.800	+0.160	+1.27%	11.125M	13.253M	130.659B	5.47	
+601186.SS	China Railway Construction Corporation Limited	11.22	+0.16	+1.45%	100.329M	85.133M	129.802B	N/A	
+600309.SS	Wanhua Chemical Group Co., Ltd.	41.03	+2.45	+6.35%	77.004M	27.713M	128.824B	N/A	
+002880.KS	Dayou A-Tech Co.,Ltd	1,240.00	0.00	0.00%	8.549M	6.234M	128.106B	N/A	
+BTS-R.BK	BTS Group Holdings Public Company Limited	10.80	-0.10	-0.92%	11.237M	N/A	127.93B	27.14	
+BTS.BK	BTS Group Holdings Public Company Limited	10.80	-0.10	-0.92%	11.237M	27.932M	127.93B	27.14	
+LLY	Eli Lilly and Company	123.08	-1.23	-0.99%	39.667M	15.531M	127.44B	39.32	
+600015.SS	Hua Xia Bank Co., Limited	8.24	-0.01	-0.12%	38.258M	30.787M	126.791B	N/A	
+601336.SS	New China Life Insurance Company Ltd.	51.25	+1.25	+2.50%	23.058M	17.269M	125.54B	N/A	
+000617.SZ	CNPC Capital Company Limited	13.90	+0.63	+4.75%	12.199M	3.379M	125.518B	N/A	
+601006.SS	Daqin Railway Co., Ltd.	8.44	+0.03	+0.36%	41.75M	29.416M	125.476B	N/A	
+601319.SS	The People's Insurance Company (Group) of China Limited	9.55	-0.06	-0.62%	173.098M	107.88M	125.439B	N/A	
+600837.SS	Haitong Securities Co., Ltd.	13.76	+0.47	+3.54%	165.465M	91.197M	125.432B	N/A	
+002594.SZ	BYD Company Limited	55.39	+0.82	+1.50%	25.543M	11.568M	127.965B	N/A	
+6773.T	Pioneer Corporation	66.00	+1.00	+1.54%	14.74M	2.798M	126.608B	N/A	
+000166.SZ	Shenwan Hongyuan Group Co., Ltd.	5.53	+0.06	+1.10%	136.558M	83.945M	124.624B	N/A	
+LH-R.BK	Land and Houses Public Company Limited	10.50	-0.10	-0.94%	17.754M	N/A	125.472B	11.97	
+LH.BK	Land and Houses Public Company Limited	10.50	-0.10	-0.94%	17.754M	28.25M	125.472B	11.97	
+0175.HK	Geely Automobile Holdings Limited	13.840	+0.160	+1.17%	49.1M	62.336M	124.339B	9.70	
+DWDP	DowDuPont Inc.	55.03	-0.87	-1.56%	7.733M	12.124M	124.079B	33.39	
+033830.KQ	Taegu Broadcasting Corporation	1,290.00	-10.00	-0.77%	6.547M	18.592M	123.957B	N/A	
+021080.KQ	Atinum Investment Co., Ltd	2,580.00	-130.00	-4.80%	6.996M	45.61M	123.84B	N/A	
+032820.KQ	Woori Technology, Inc.	1,450.00	-105.00	-6.75%	12.219M	3.212M	123.828B	N/A	
+ORIENTBANK.NS	Oriental Bank of Commerce	99.75	+0.05	+0.05%	5.694M	4.392M	122.689B	N/A	
+2890.TW	SinoPac Financial Holdings Company Limited	10.75	-0.10	-0.92%	44.962M	10.225M	121.272B	11.93	
+600623.SS	Shanghai Huayi Group Corporation Limited	9.40	+0.45	+5.03%	28.677M	8.507M	119.838B	N/A	
+601888.SS	China International Travel Service Corporation Limited	60.95	+0.81	+1.35%	12.582M	9.585M	119.004B	N/A	
+601989.SS	China Shipbuilding Industry Company Limited	5.20	+0.07	+1.36%	130.718M	93.455M	118.975B	N/A	
+1776.HK	GF Securities Co., Ltd.	12.200	-0.020	-0.16%	8.321M	10.314M	118.743B	9.01	
+2823.TW	China Life Insurance Co., Ltd.	29.55	+0.05	+0.17%	5.896M	6.159M	118.601B	11.65	
+ITSA4.SA	Itaúsa - Investimentos Itaú S.A.	12.77	-0.21	-1.62%	18.665M	25.981M	118.49B	11.30	
+ABBV	AbbVie Inc.	79.95	+1.02	+1.29%	6.162M	7.107M	117.933B	21.84	
+0006.HK	Power Assets Holdings Limited	54.900	+0.150	+0.27%	4.982M	4.465M	117.171B	14.08	
+4563.T	AnGes, Inc.	1,198.00	-19.00	-1.56%	27.236M	8.145M	117.381B	N/A	
+ALBK.NS	Allahabad Bank	55.80	+0.60	+1.09%	5.583M	6.496M	115.886B	N/A	
+IRPC-R.BK	IRPC Public Company Limited	5.70	-0.05	-0.87%	14.407M	N/A	116.34B	15.04	
+IRPC.BK	IRPC Public Company Limited	5.70	-0.05	-0.87%	14.407M	66.018M	116.34B	15.04	
+9904.TW	Pou Chen Corporation	39.25	+0.15	+0.38%	5.474M	4.225M	115.662B	9.41	
+NBCC.NS	NBCC (India) Limited	64.05	-0.60	-0.93%	15.041M	9.262M	115.194B	30.08	
+601111.SS	Air China Limited	9.71	+0.11	+1.15%	70.253M	51.61M	114.954B	N/A	
+8358.T	Suruga Bank Ltd.	495.00	+7.00	+1.43%	9.198M	7.795M	114.667B	2.51	
+0288.HK	WH Group Limited	7.840	+0.380	+5.09%	82.596M	34.489M	114.967B	N/A	
+002024.SZ	Suning.com Co., Ltd.	12.27	+0.23	+1.91%	53.306M	40.325M	113.338B	N/A	
+000725.SZ	BOE Technology Group Company Limited	3.8200	+0.0100	+0.26%	809.943M	676.586M	112.891B	N/A	
+600648.SS	Shanghai Waigaoqiao Free Trade Zone Group Co., Ltd.	17.61	+0.65	+3.83%	15.791M	3.525M	112.229B	N/A	
+2888.TW	Shin Kong Financial Holding Co., Ltd.	9.10	+0.02	+0.22%	67.701M	37.299M	111.57B	10.67	
+600009.SS	Shanghai International Airport Co., Ltd.	57.78	+0.52	+0.91%	9.873M	5.971M	111.34B	N/A	
+1055.HK	China Southern Airlines Company Limited	6.360	+0.100	+1.60%	12.317M	17.835M	110.82B	8.84	
+600827.SS	Shanghai Bailian (Group) Co., Ltd.	10.20	+0.32	+3.24%	19.989M	5.406M	111.146B	N/A	
+0763.HK	ZTE Corporation	22.250	-0.250	-1.11%	12.498M	13.564M	111.555B	17.03	
+002714.SZ	Muyuan Foods Co.,Ltd.	52.98	+3.21	+6.45%	16.42M	12.392M	110.475B	N/A	
+2409.TW	AU Optronics Corp.	11.45	+0.05	+0.44%	116.437M	30.261M	110.198B	11.01	
+2238.HK	Guangzhou Automobile Group Co., Ltd.	9.300	+0.080	+0.87%	22.551M	29.324M	110.889B	6.46	
+3034.TW	Novatek Microelectronics Corp.	179.00	+3.00	+1.70%	9.322M	3.278M	108.924B	19.29	
+002714.SZ	Muyuan Foods Co.,Ltd.	52.98	+3.21	+6.45%	16.42M	12.392M	110.475B	N/A	
+2409.TW	AU Optronics Corp.	11.45	+0.05	+0.44%	116.437M	30.261M	110.198B	11.01	
+2238.HK	Guangzhou Automobile Group Co., Ltd.	9.300	+0.080	+0.87%	22.723M	29.324M	110.889B	6.46	
+3034.TW	Novatek Microelectronics Corp.	179.00	+3.00	+1.70%	9.322M	3.278M	108.924B	19.29	
+0241.HK	Alibaba Health Information Technology Limited	9.290	+0.140	+1.53%	7.846M	11.33M	108.582B	N/A	
+002736.SZ	Guosen Securities Co., Ltd.	13.18	+0.04	+0.30%	43.329M	23.657M	108.076B	N/A	
+5347.TWO	Vanguard International Semiconductor Corporation	65.80	-0.70	-1.05%	6.797M	5.489M	107.845B	N/A	
+CEY.L	Centamin plc	92.74	+0.24	+0.26%	5.136M	7.427M	1.07B	14.49	
+JAYA.JK	PT Armada Berjaya Trans Tbk	284.00	+2.00	+0.71%	18.815M	N/A	106.5B	N/A	
+MO	Altria Group, Inc.	56.40	+0.27	+0.48%	11.335M	13.279M	105.598B	15.33	
+PBR	Petróleo Brasileiro S.A. - Petrobras	16.25	0.00	0.00%	13.999M	16.298M	98.584B	22.14	
+2382.HK	Sunny Optical Technology (Group) Company Limited	96.750	+5.300	+5.80%	10.526M	7.995M	105.747B	30.25	
+0656.HK	Fosun International Limited	12.340	+0.200	+1.65%	7.178M	9.613M	105.512B	6.73	
+600835.SS	Shanghai Mechanical & Electrical Industry Co., Ltd.	18.50	+0.58	+3.24%	11.08M	3.278M	102.809B	N/A	
+600690.SS	Qingdao Haier Co., Ltd.	16.86	+0.76	+4.72%	82.614M	31.235M	102.802B	N/A	
+2301.TW	Lite-On Technology Corporation	44.10	+0.70	+1.61%	7.652M	6.127M	102.49B	13.05	
+600094.SS	Greattown Holdings Ltd.	6.61	+0.28	+4.42%	39.826M	11.759M	101.606B	N/A	
+002142.SZ	Bank of Ningbo Co., Ltd.	19.47	-0.05	-0.26%	17.447M	14.863M	101.411B	N/A	
+1099.HK	Sinopharm Group Co. Ltd.	34.300	-0.500	-1.44%	4.999M	3.997M	101.717B	14.98	
+GMRINFRA.NS	GMR Infrastructure Limited	16.80	-0.35	-2.04%	13.315M	17.506M	101.102B	N/A	
+ALFAA.MX	Alfa, S. A. B. de C. V.	19.98	-0.24	-1.19%	0	7.485M	101.001B	7.68	
+000776.SZ	GF Securities Co., Ltd.	16.48	+0.21	+1.29%	50.809M	52.48M	100.937B	N/A	
+TXN	Texas Instruments Incorporated	107.10	-0.48	-0.45%	5.088M	6.261M	100.526B	19.15	
+NVDA	NVIDIA Corporation	165.56	-3.06	-1.81%	12.985M	16.616M	100.329B	24.97	
+

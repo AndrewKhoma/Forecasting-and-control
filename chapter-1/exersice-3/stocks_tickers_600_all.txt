@@ -13,8 +13,7 @@ PBR-A	Petróleo Brasileiro S.A. - Petrobras	14.61	-0.09	-0.61%	6.5M	7.809M	97.98
 600320.SS	Shanghai Zhenhua Heavy Industries Co., Ltd.	4.0700	+0.1400	+3.56%	9.772M	10.736M	95.914B	N/A	
 FOXA	Twenty-First Century Fox, Inc.	51.70	+0.50	+0.98%	27.353M	10.8M	95.891B	6.94	
 600999.SS	China Merchants Securities Co., Ltd.	17.66	+0.33	+1.90%	22.389M	23.86M	95.726B	N/A	
-FOX	Twenty-First Century Fox, Inc.	51.32	+0.26	+0.51%	9.635M	4.656M	95.446B	6.89	
-TMB-R.BK	TMB Bank Public Company Limited	2.1600	0.0000	0.00%	13.106M	N/A	94.72B	8.15	
+FOX	Twenty-First Century Fox, Inc.	51.32	+0.26	+0.51%	9.635M	4.656M	95.446B	6.89		
 3993.HK	China Molybdenum Co., Ltd.	3.380	-0.050	-1.46%	31.524M	30.482M	95.227B	20.14	
 601155.SS	Future Land Holdings Co., Ltd.	41.63	+2.95	+7.63%	23.907M	11.237M	93.717B	N/A	
 601985.SS	China National Nuclear Power Co., Ltd.	6.03	+0.09	+1.52%	23.441M	32.455M	93.859B	N/A	
@@ -110,7 +109,6 @@ CELG	Celgene Corporation	88.29	+0.99	+1.13%	15.002M	11.484M	62.011B	16.02
 1605.TW	Walsin Lihwa Corporation	18.30	+0.30	+1.67%	46.012M	12.513M	60.866B	5.18	
 601901.SS	Founder Securities Co., Ltd.	7.39	+0.14	+1.93%	27.193M	65.257M	60.835B	N/A	
 SCHW	The Charles Schwab Corporation	45.30	+0.89	+2.00%	8.119M	7.067M	60.38B	18.49	
-WHA-R.BK	WHA Corporation Public Company Limited	4.1800	-0.0200	-0.48%	5.374M	N/A	60.156B	20.90	
 WHA.BK	WHA Corporation Public Company Limited	4.1800	-0.0200	-0.48%	5.374M	72.071M	60.156B	20.90	
 VIJAYABANK.NS	Vijaya Bank	46.05	0.00	0.00%	12.627M	1.757M	60.121B	9.13	
 SLB	Schlumberger Limited	43.09	-0.06	-0.14%	7.788M	13.071M	59.721B	28.16	
@@ -147,7 +145,6 @@ CS.PA	AXA SA	22.47	+0.16	+0.69%	6.837M	6.776M	53.541B	28.51
 3323.HK	China National Building Material Company Limited	6.290	+0.080	+1.29%	8.615M	24.917M	53.055B	8.79	
 RDF.JO	Redefine Properties Limited	979.00	-14.00	-1.41%	10.627M	12.435M	52.909B	1,490.11	
 1030.HK	Future Land Development Holdings Limited	8.910	+0.130	+1.48%	17.324M	18.022M	52.56B	11.09	
-MCG.JO	Multichoice Group Limited	11,914.00	+36.00	+0.30%	7.495M	N/A	52.283B	N/A	
 600271.SS	Aisino Corporation	28.03	+0.05	+0.18%	13.803M	18.689M	52.206B	N/A	
 024740.KQ	Hanil Forging Industrial Co., Ltd.	1,775.00	+320.00	+21.99%	10.05M	180,953	52.525B	N/A	
 002236.SZ	Zhejiang Dahua Technology Co., Ltd.	17.21	+0.41	+2.44%	34.725M	57.688M	51.588B	N/A	
@@ -229,7 +226,6 @@ REGINN.IC	Reginn hf.	22.05	+0.55	+2.56%	7.05M	4.177M	40.269B	11.77
 600188.SS	Yanzhou Coal Mining Company Limited	10.51	+0.11	+1.06%	20.242M	23.591M	39.771B	N/A	
 600297.SS	China Grand Automotive Services Co., Ltd.	4.8400	+0.0400	+0.83%	16.922M	20.03M	39.609B	N/A	
 002456.SZ	O-film Tech Co., Ltd.	14.57	+0.36	+2.53%	59.577M	88.036M	39.527B	N/A	
-TPIPL-R.BK	TPI Polene Public Company Limited	2.0600	+0.0200	+0.98%	13.237M	N/A	39.512B	128.75	
 601598.SS	Sinotrans Limited	6.06	+0.09	+1.51%	48.53M	N/A	42.199B	N/A	
 LHC.JO	Life Healthcare Group Holdings Limited	2,709.00	+48.00	+1.80%	5.434M	4.086M	39.431B	2,810.17	
 002945.SZ	ChinaLin Securities Co., Ltd.	14.58	+0.22	+1.53%	23.056M	N/A	39.366B	N/A	
@@ -291,7 +287,6 @@ BBVA.MC	Banco Bilbao Vizcaya Argentaria, S.A.	5.28	+0.01	+0.13%	19.469M	21.157M	
 600535.SS	Tasly Pharmaceutical Group Co., Ltd.	23.08	+0.04	+0.17%	10.173M	7.907M	34.912B	N/A	
 0268.HK	Kingdee International Software Group Company Limited	10.380	+0.470	+4.74%	26.087M	18.66M	34.283B	78.42	
 NOK	Nokia Corporation	6.22	+0.08	+1.30%	18.598M	26.409M	34.611B	N/A	
-STEC-R.BK	Sino-Thai Engineering and Construction Public Company Limited	22.60	-0.40	-1.74%	5.841M	N/A	34.467B	21.32	
 DAL	Delta Air Lines, Inc.	50.94	-0.08	-0.16%	7.544M	8.179M	34.464B	8.98	
 000728.SZ	Guoyuan Securities Company Limited	10.21	+0.11	+1.09%	60.068M	39.33M	34.361B	N/A	
 600655.SS	Shanghai Yuyuan Tourist Mart Co., Ltd.	8.85	+0.50	+5.99%	17.278M	8.608M	34.347B	N/A	
@@ -335,7 +330,6 @@ EREGL.IS	Eregli Demir ve Çelik Fabrikalari T.A.S.	9.16	+0.22	+2.46%	20.031M	20.
 002371.SZ	NAURA Technology Group Co., Ltd.	69.56	+0.46	+0.67%	7.88M	8.272M	31.859B	N/A	
 000656.SZ	Jinke Property Group Co., Ltd.	5.96	+0.05	+0.85%	10.695M	16.49M	31.825B	N/A	
 2383.TW	Elite Material Co., Ltd.	99.40	+3.10	+3.22%	6.883M	4.476M	31.773B	17.30	
-QH-R.BK	Quality Houses Public Company Limited	2.9600	0.0000	0.00%	9.082M	N/A	31.715B	8.34	
 QH.BK	Quality Houses Public Company Limited	2.9600	0.0000	0.00%	9.083M	43.383M	31.715B	8.34	
 002460.SZ	Jiangxi Ganfeng Lithium Co., Ltd.	30.55	-0.38	-1.23%	52.87M	27.752M	31.681B	N/A	
 600822.SS	Shanghai Material Trading Co., Ltd.	11.73	+1.07	+10.04%	23.955M	5.192M	31.671B	N/A	
@@ -588,7 +582,6 @@ HAPV3.SA	Hapvida Participações e Investimentos S.A.	30.90	-1.60	-4.92%	0	1.155
 600843.SS	Shang Gong Group Co., Ltd.	9.35	+0.85	+10.00%	11.326M	2.888M	20.402B	N/A	
 601003.SS	Liuzhou Iron&Steel Co., Ltd	7.92	+0.07	+0.89%	12.168M	16.772M	20.297B	N/A	
 BEAUTY.BK	Beauty Community Public Company Limited	6.80	+0.05	+0.74%	37.104M	82.107M	20.447B	20.61	
-BEAUTY-R.BK	Beauty Community Public Company Limited	6.80	+0.05	+0.74%	37.104M	N/A	20.447B	20.61	
 601865.SS	Flat Glass Group Co., Ltd.	14.81	-0.99	-6.27%	57.815M	N/A	20.286B	N/A	
 600521.SS	Zhejiang Huahai Pharmaceutical Co., Ltd.	16.20	+1.47	+9.98%	19.146M	15.73M	20.264B	N/A	
 000563.SZ	Shaanxi International Trust Co.,Ltd.	5.11	+0.09	+1.79%	102.417M	102.236M	20.256B	N/A	
