@@ -1,0 +1,146 @@
+GE	General Electric Company	10.30	+0.28	+2.79%	133.495M	120.413M	89.662B	N/A	
+SNAP	Snap Inc.	11.28	+1.23	+12.24%	79.244M	25.927M	14.901B	N/A	
+NIO	NIO Inc.	6.03	-0.50	-7.66%	58.42M	21.051M	6.187B	N/A	
+ACB	Aurora Cannabis Inc.	8.99	-0.08	-0.88%	54.582M	25.222M	9.046B	41.62	
+BAC	Bank of America Corporation	29.46	+0.17	+0.58%	45.219M	68.24M	283.963B	11.29	
+LLY	Eli Lilly and Company	123.08	-1.23	-0.99%	42.769M	15.531M	127.44B	39.32	
+AMD	Advanced Micro Devices, Inc.	22.82	-0.56	-2.40%	42.819M	87.103M	22.941B	71.31	
+CLDR	Cloudera, Inc.	11.71	-2.90	-19.85%	37.585M	3.256M	3.085B	N/A	
+CHK	Chesapeake Energy Corporation	3.1000	+0.0800	+2.65%	39.431M	48.598M	5.012B	N/A	
+F	Ford Motor Company	8.41	-0.12	-1.41%	36.308M	44.896M	33.46B	9.14	
+BMY	Bristol-Myers Squibb Company	49.89	-1.08	-2.12%	31.496M	18.238M	81.453B	16.57	
+PFE	Pfizer Inc.	41.19	-0.82	-1.95%	30.474M	26.486M	228.679B	22.07	
+CZR	Caesars Entertainment Corporation	8.16	-0.19	-2.28%	26.015M	27.595M	5.093B	19.90	
+ORCL	Oracle Corporation	53.05	-0.01	-0.02%	22.494M	17.767M	190.392B	52.94	
+ROKU	Roku, Inc.	61.82	+1.08	+1.78%	23.781M	13.416M	6.801B	N/A	
+AAPL	Apple Inc.	183.73	+2.02	+1.11%	23.58M	34.889M	866.338B	15.16	
+ABEV	Ambev S.A.	4.2900	-0.0900	-2.05%	23.523M	28.764M	68.217B	24.38	
+SIRI	Sirius XM Holdings Inc.	6.13	+0.04	+0.66%	22.233M	27.157M	29.042B	23.58	
+T	AT&T Inc.	30.28	0.00	0.00%	22.091M	36.674M	220.577B	10.63	
+FOXA	Twenty-First Century Fox, Inc.	51.70	+0.50	+0.98%	27.353M	10.8M	95.891B	6.94	
+WFC	Wells Fargo & Company	50.35	+0.43	+0.86%	18.9M	21.515M	229.063B	11.76	
+ECA	Encana Corporation	7.24	-0.03	-0.43%	20.938M	32.094M	10.798B	6.52	
+INTC	Intel Corporation	53.44	-0.93	-1.71%	26.647M	25.695M	240.32B	11.93	
+MU	Micron Technology, Inc.	38.41	-0.42	-1.08%	19.473M	35.487M	43.06B	3.16	
+NOK	Nokia Corporation	6.22	+0.08	+1.30%	18.598M	26.409M	34.611B	N/A	
+KO	The Coca-Cola Company	45.70	-0.12	-0.26%	18.109M	16.811M	195.375B	30.47	
+VALE	Vale S.A.	13.15	-0.13	-0.98%	18.912M	34.684M	66.102B	18.92	
+GG	Goldcorp Inc.	10.91	-0.29	-2.59%	19.061M	17.99M	9.42B	N/A	
+FB	Facebook, Inc.	170.17	-3.20	-1.85%	18.037M	22.495M	485.663B	22.48	
+DIS	The Walt Disney Company	114.48	+0.39	+0.34%	16.935M	8.1M	170.665B	15.68	
+ITUB	Itaú Unibanco Holding S.A.	9.55	-0.24	-2.45%	17.02M	18.341M	85.334B	14.92	
+MSFT	Microsoft Corporation	114.59	+0.09	+0.08%	25.834M	33.775M	879.158B	26.58	
+JD	JD.com, Inc.	27.89	-0.24	-0.85%	17.281M	18.914M	40.361B	189.73	
+PDD	Pinduoduo Inc.	24.39	-0.73	-2.91%	15.931M	7.048M	28.149B	N/A	
+CVS	CVS Health Corporation	55.88	-0.69	-1.22%	14.917M	12.776M	72.481B	N/A	
+COTY	Coty Inc.	11.00	0.00	0.00%	14.795M	11.535M	8.264B	N/A	
+CSCO	Cisco Systems, Inc.	52.74	+0.15	+0.29%	18.044M	23.657M	232.163B	19.24	
+HPQ	HP Inc.	19.64	+0.03	+0.15%	15.484M	11.671M	30.118B	7.54	
+BA	The Boeing Company	373.30	-3.84	-1.02%	13.35M	5.845M	210.909B	20.91	
+CELG	Celgene Corporation	88.29	+0.99	+1.13%	15.002M	11.484M	62.011B	16.02	
+ELAN	Elanco Animal Health Incorporated	30.31	-1.27	-4.02%	29.048M	7.726M	11.083B	109.82	
+NVDA	NVIDIA Corporation	165.56	-3.06	-1.81%	12.985M	16.616M	100.329B	24.97	
+ZNGA	Zynga Inc.	5.40	+0.03	+0.56%	12.778M	14.444M	4.998B	300.00	
+GGB	Gerdau S.A.	3.8500	-0.0900	-2.28%	12.741M	10.584M	5.984B	46.39	
+CMCSA	Comcast Corporation	39.87	+0.31	+0.78%	16.568M	21.014M	180.45B	15.76	
+PBR	Petróleo Brasileiro S.A. - Petrobras	16.25	0.00	0.00%	13.999M	16.298M	98.584B	22.14	
+TEVA	Teva Pharmaceutical Industries Limited	16.47	+0.24	+1.48%	13.04M	11.385M	17.946B	N/A	
+TWTR	Twitter, Inc.	31.03	-0.27	-0.86%	11.769M	20.564M	23.725B	19.89	
+FCX	Freeport-McMoRan Inc.	12.32	-0.34	-2.69%	14.939M	23.292M	17.852B	6.92	
+KMI	Kinder Morgan, Inc.	19.98	0.00	0.00%	12.828M	16.539M	45.228B	30.05	
+DG	Dollar General Corporation	111.64	-9.04	-7.49%	11.236M	2.165M	29.348B	16.48	
+JPM	JPMorgan Chase & Co.	105.34	+0.95	+0.91%	10.372M	15.202M	345.019B	11.70	
+NLY	Annaly Capital Management, Inc.	10.31	-0.03	-0.29%	11.866M	16.367M	14.435B	N/A	
+RIG	Transocean Ltd.	9.04	-0.07	-0.77%	10.148M	15.102M	5.518B	N/A	
+MYL	Mylan N.V.	28.00	+0.53	+1.93%	10.251M	5.334M	14.447B	41.18	
+BBD	Banco Bradesco S.A.	11.80	-0.03	-0.25%	10.385M	13.198M	73.719B	16.86	
+MO	Altria Group, Inc.	56.40	+0.27	+0.48%	11.335M	13.279M	105.598B	15.33	
+C	Citigroup Inc.	64.11	+0.46	+0.72%	12.194M	19.438M	150.049B	9.59	
+GOLD	Barrick Gold Corporation	13.11	-0.24	-1.80%	10.381M	9.462M	22.872B	N/A	
+MDB	MongoDB, Inc.	130.94	+26.68	+25.59%	10.476M	1.208M	7.019B	N/A	
+NEM	Newmont Mining Corporation	33.42	-0.99	-2.88%	11.337M	9.73M	17.802B	52.22	
+SWN	Southwestern Energy Company	4.4600	-0.0100	-0.22%	10.601M	17.968M	2.402B	4.80	
+FOX	Twenty-First Century Fox, Inc.	51.32	+0.26	+0.51%	9.635M	4.656M	95.446B	6.89	
+HAL	Halliburton Company	28.47	-0.03	-0.11%	10.806M	10.691M	24.841B	15.06	
+HBAN	Huntington Bancshares Incorporated	14.07	+0.15	+1.08%	9.552M	12.829M	14.787B	11.72	
+SID	Companhia Siderúrgica Nacional	4.0300	-0.0600	-1.47%	9.301M	3.493M	5.022B	5.63	
+BABA	Alibaba Group Holding Limited	180.36	-0.34	-0.19%	8.466M	14.81M	467.526B	51.58	
+CLF	Cleveland-Cliffs Inc.	9.95	-0.19	-1.87%	9.344M	10.409M	2.891B	2.68	
+CUZ	Cousins Properties Incorporated	9.91	+0.07	+0.71%	9.374M	5.065M	4.166B	52.71	
+CTL	CenturyLink, Inc.	11.92	-0.18	-1.49%	12.602M	17.745M	12.871B	N/A	
+PEP	PepsiCo, Inc.	115.50	-1.08	-0.93%	8.987M	5.427M	162.194B	13.15	
+AUY	Yamana Gold Inc.	2.6000	-0.1000	-3.70%	8.85M	12.891M	2.463B	N/A	
+JNJ	Johnson & Johnson	138.02	-1.39	-1.00%	7.702M	9.498M	367.516B	24.62	
+FTI	TechnipFMC plc	22.99	+1.09	+4.98%	8.562M	4.315M	10.338B	N/A	
+DWDP	DowDuPont Inc.	55.03	-0.87	-1.56%	7.733M	12.124M	124.079B	33.39	
+MRK	Merck & Co., Inc.	81.49	+0.44	+0.54%	8.14M	12.33M	210.344B	35.12	
+DAL	Delta Air Lines, Inc.	50.94	-0.08	-0.16%	7.544M	8.179M	34.464B	8.98	
+FDC	First Data Corporation	25.45	-0.16	-0.62%	10.554M	14.651M	23.855B	24.24	
+MRO	Marathon Oil Corporation	17.26	-0.06	-0.35%	9.019M	12.578M	14.127B	13.38	
+GILD	Gilead Sciences, Inc.	64.79	-0.33	-0.51%	7.959M	7.897M	82.64B	15.54	
+SLB	Schlumberger Limited	43.09	-0.06	-0.14%	7.935M	13.071M	59.721B	28.16	
+HPE	Hewlett Packard Enterprise Company	15.66	+0.14	+0.90%	10.097M	11.559M	21.46B	35.92	
+AMAT	Applied Materials, Inc.	38.93	+0.33	+0.85%	9.491M	11.871M	36.96B	9.91	
+OAK	Oaktree Capital Group, LLC	48.75	-0.49	-1.00%	8.017M	464,660	7.648B	16.28	
+V	Visa Inc.	154.20	+1.73	+1.13%	9.365M	9.342M	338.787B	33.17	
+KHC	The Kraft Heinz Company	31.87	-0.43	-1.33%	7.605M	12.224M	38.863B	N/A	
+GM	General Motors Company	38.03	-0.77	-1.98%	8.693M	10.43M	53.603B	6.88	
+VZ	Verizon Communications Inc.	57.95	+0.29	+0.50%	10.515M	16.304M	239.452B	15.41	
+SYF	Synchrony Financial	32.84	-0.08	-0.24%	5.803M	8.083M	23.312B	8.78	
+COP	ConocoPhillips	67.02	-0.33	-0.49%	7.315M	6.502M	76.027B	12.60	
+QCOM	QUALCOMM Incorporated	55.40	+0.01	+0.02%	7.306M	15.307M	67.051B	35.42	
+KEY	KeyCorp	17.42	+0.10	+0.58%	8.017M	12.286M	17.573B	10.21	
+FITB	Fifth Third Bancorp	28.41	+0.43	+1.54%	8.056M	6.286M	18.427B	9.28	
+XOM	Exxon Mobil Corporation	80.44	-0.27	-0.33%	9.122M	14.78M	340.647B	16.48	
+PG	The Procter & Gamble Company	101.32	+0.14	+0.14%	8.24M	9.943M	253.46B	24.64	
+CRON	Cronos Group Inc.	20.82	-0.32	-1.51%	7.202M	15.776M	3.71B	N/A	
+SCHW	The Charles Schwab Corporation	45.30	+0.89	+2.00%	8.119M	7.067M	60.38B	18.49	
+EBAY	eBay Inc.	36.35	-0.11	-0.30%	7.29M	13.898M	33.256B	14.24	
+WDC	Western Digital Corporation	47.58	-1.41	-2.88%	7.159M	7.377M	13.839B	17.40	
+NWL     Newell Brands Inc.	15.45	-0.02	-0.13%	7.29M	7.185M	6.532B	N/A	
+AU	AngloGold Ashanti Limited	13.14	+0.01	+0.08%	6.625M	3.678M	5.399B	41.19	
+KGC	Kinross Gold Corporation	3.3600	-0.0900	-2.61%	6.787M	16.614M	4.174B	N/A	
+TSLA	Tesla, Inc.	289.96	+1.00	+0.35%	7.103M	8.305M	50.082B	N/A	
+KR	The Kroger Co.	24.75	+0.02	+0.08%	7.988M	7.927M	19.744B	6.58	
+SBUX	Starbucks Corporation	70.74	+0.64	+0.91%	9.249M	12.269M	87.972B	31.50	
+MS	Morgan Stanley	42.69	+0.28	+0.66%	7.829M	13.271M	72.948B	9.03	
+DVN	Devon Energy Corporation	29.50	+0.25	+0.85%	6.417M	8.889M	12.93B	4.84	
+RF	Regions Financial Corporation	15.79	-0.02	-0.13%	7.338M	12.874M	16.07B	10.30	
+X	United States Steel Corporation	19.78	-0.58	-2.85%	6.946M	9.741M	3.426B	3.16	
+PBR-A	Petróleo Brasileiro S.A. - Petrobras	14.61	-0.09	-0.61%	6.5M	7.809M	97.981B	19.90	
+AAL	American Airlines Group Inc.	32.13	+0.29	+0.91%	6.454M	8.393M	14.428B	10.60	
+PCG	PG&E Corporation	19.51	+0.05	+0.26%	5.579M	26.101M	10.293B	N/A	
+VIPS	Vipshop Holdings Limited	7.62	-0.26	-3.30%	6.376M	8.671M	5.064B	15.81	
+SQ	Square, Inc.	77.38	-0.47	-0.60%	6.579M	15.431M	32.476B	N/A	
+SAN	Banco Santander, S.A.	4.8400	+0.0200	+0.41%	6.204M	7.911M	78.549B	10.04	
+ABBV	AbbVie Inc.	79.95	+1.02	+1.29%	5.878M	7.107M	117.933B	21.84	
+QGEN	QIAGEN N.V.	39.79	+0.05	+0.13%	6.153M	1.363M	8.973B	48.52	
+FNMA	Federal National Mortgage Association	2.7500	+0.0600	+2.23%	6.089M	9.513M	15.782B	4.82	
+M	Macy's, Inc.	23.63	-0.01	-0.05%	6.036M	10.011M	7.266B	6.64	
+EA	Electronic Arts Inc.	98.83	-1.30	-1.30%	5.909M	7.726M	29.609B	21.52	
+NKE	NIKE, Inc.	86.87	+0.94	+1.09%	5.432M	6.961M	136.716B	65.91	
+ADT	ADT Inc.	6.18	-0.20	-3.13%	5.831M	2.262M	4.676B	25.33	
+WLL	Whiting Petroleum Corporation	25.21	-0.31	-1.21%	5.766M	4.786M	2.321B	6.76	
+ATVI	Activision Blizzard, Inc.	43.32	-0.38	-0.87%	7.325M	13.038M	33.089B	18.43	
+IQ	iQIYI, Inc.	25.67	-0.74	-2.80%	5.693M	9.959M	18.577B	24.22	
+S	Sprint Corporation	6.26	-0.04	-0.63%	6.889M	13.945M	25.53B	84.59	
+BSX	Boston Scientific Corporation	40.05	-0.18	-0.45%	6.173M	7.114M	55.508B	33.66	
+CAG	Conagra Brands, Inc.	23.09	+0.05	+0.22%	6.701M	8.828M	11.213B	12.62	
+LUV	Southwest Airlines Co.	51.16	+0.55	+1.09%	6.505M	5.336M	28.276B	11.93	
+AR	Antero Resources Corporation	8.58	+0.25	+3.00%	6.469M	6.522M	2.648B	N/A	
+CX	CEMEX, S.A.B. de C.V.	4.6600	-0.0500	-1.06%	5.505M	7.158M	6.996B	15.53	
+LOW	Lowe's Companies, Inc.	100.81	-0.36	-0.36%	4.878M	4.774M	80.749B	35.50	
+CBS	CBS Corporation	48.24	-0.46	-0.94%	5.81M	3.14M	17.996B	9.39	
+SBGL	Sibanye Gold Limited	3.9500	-0.0600	-1.50%	5.429M	4.748M	2.288B	70.54	
+KKR	KKR & Co. Inc.	24.14	+0.32	+1.34%	5.759M	4.766M	20.098B	11.72	
+INFY	Infosys Limited	10.60	+0.05	+0.47%	5.931M	9.482M	44.446B	21.20	
+GIS	General Mills, Inc.	47.46	+0.38	+0.81%	4.958M	5.442M	28.322B	13.90	
+IBN	ICICI Bank Limited	11.10	-0.05	-0.45%	5.418M	6.961M	36.102B	31.90	
+CVX	Chevron Corporation	124.60	-0.07	-0.06%	4.628M	6.985M	236.747B	16.10	
+NYCB	New York Community Bancorp, Inc.	12.03	+0.02	+0.17%	5.681M	6.376M	5.622B	15.23	
+VER	VEREIT, Inc.	8.27	-0.04	-0.48%	9.059M	8.344M	8.199B	N/A	
+ATUS	Altice USA, Inc.	21.62	+0.42	+1.98%	5.494M	5.669M	15.085B	831.54	
+TXN	Texas Instruments Incorporated	107.10	-0.48	-0.45%	5.088M	6.261M	100.526B	19.15	
+GPS	The Gap, Inc.	25.52	-0.48	-1.85%	5.642M	5.764M	9.647B	9.85	
+MOMO	Momo Inc.	37.22	-0.57	-1.51%	5.085M	3.729M	7.702B	18.25	
+DISCA	Discovery, Inc.	27.43	+0.50	+1.86%	5.024M	3.963M	19.83B	37.47	
